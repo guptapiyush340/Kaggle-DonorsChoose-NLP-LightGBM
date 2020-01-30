@@ -21,7 +21,7 @@ We have 3 datasets namely, Train (the training set), Test (the testing set), and
 
 Using all the features as it is rarely useful in data mining. To make this features more informative, we performed a range of feature engineering steps and performed text analysis on the essays and title of essays.
 
-![1574100207862](![1574100207862](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/3.png))
+![1574100207862](![1574100207862](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/3.png)
 
 ### Data Mining
 
@@ -32,11 +32,11 @@ Using all the features as it is rarely useful in data mining. To make this featu
 3. [Boosting](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/PredictiveDonorsCollated.ipynb)
 
 
-![1574100207862](![1574100207862](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/4.png))
+![1574100207862](![1574100207862](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/4.png)
 
 
 ### Prediction Performance
 
 Based on the important features, we then implemented stacked model of LightGBM and CatBoost. Their comparative performance with Kaggle Leadership board is reported in the graph below.
 
-![1574100207862](![1574100207862](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/5.png))
+![1574100207862](![1574100207862](https://github.com/guptapiyush340/Kaggle-DonorsChoose-NLP-LightGBM/blob/master/5.png)
